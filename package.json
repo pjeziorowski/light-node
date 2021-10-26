@@ -1,0 +1,7 @@
+{
+  "name": "light-node",
+  "version": "1.0.0",
+  "description": "Barebone NodeJS",
+  "main": "index.js",
+  "license": "MIT"
+}
